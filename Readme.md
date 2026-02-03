@@ -5,3 +5,8 @@
 In diesem Bereich sind Anleitungen um Programme unter Linux zu installieren
 
 + [Zur Übersicht](Prog_installieren/Readme.md)
+
+
+## Videokonferenzen
+
++ [Jitsi Meet](Videokonferenz-Plattform/meetjit.md)
