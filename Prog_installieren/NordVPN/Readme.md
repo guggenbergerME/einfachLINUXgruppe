@@ -1,13 +1,16 @@
-🔐 NordVPN auf Linux Mint installieren
-1️⃣ Terminal öffnen
+# 🔐 NordVPN auf Linux Mint installieren
+
+## 1️⃣ Terminal öffnen
 
 Drück Strg + Alt + T
 
-2️⃣ NordVPN-Repository hinzufügen
+## NordVPN-Repository hinzufügen
 
 Kopier das hier rein und bestätige mit Enter:
 
+```
 curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh | sh
+```
 
 👉 Das Skript richtet alles korrekt ein (Repository, Schlüssel, Paket).
 
