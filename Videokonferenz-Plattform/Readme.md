@@ -1,4 +1,4 @@
 # Videokonferenz Software
 
 
-- https://meet.jit.si/
+- [Beschreibung](meetjit.md) https://meet.jit.si/
