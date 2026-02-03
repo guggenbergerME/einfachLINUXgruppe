@@ -18,13 +18,23 @@ curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh | sh
 
 Falls es nicht automatisch installiert wurde:
 
+```
 sudo apt update
 sudo apt install nordvpn
-4️⃣ NordVPN-Dienst starten
+```
+
+## 4️⃣ NordVPN-Dienst starten
+
+```
 sudo systemctl enable nordvpn
 sudo systemctl start nordvpn
-5️⃣ Bei NordVPN anmelden
+```
+
+## 5️⃣ Bei NordVPN anmelden
+
+```
 nordvpn login
+```
 
 Es öffnet sich ein Browser
 
@@ -32,29 +42,42 @@ Log dich mit deinem NordVPN-Account ein
 
 Danach zurück ins Terminal → fertig ✅
 
-🚀 Verbindung herstellen
+## 🚀 Verbindung herstellen
 
 Schnell verbinden (empfohlen):
 
+```
 nordvpn connect
+```
 
 Bestimmtes Land wählen (z. B. Deutschland):
 
+```
 nordvpn connect germany
+```
 
 Trennen:
 
+```
 nordvpn disconnect
-⚙️ Nützliche Extras (optional, aber nice)
+```
+
+## ⚙️ Nützliche Extras (optional, aber nice)
 
 Auto-Connect aktivieren:
 
+```
 nordvpn set autoconnect on
+```
 
 Kill Switch aktivieren (sehr empfohlen):
 
+```
 nordvpn set killswitch on
+```
 
 Status prüfen:
 
+```
 nordvpn status
+```
