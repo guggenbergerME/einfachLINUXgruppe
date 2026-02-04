@@ -34,3 +34,15 @@ Fertig 🎉
 
 ### Konfigurieren
 Um Rustdesk zu nutzen ist eine Konfiguration notwendig. Die kann per Anleitung oder per Datei erfolgen.
+
+📍 Wo liegt die RustDesk1.toml unter Linux Mint?
+👉 Für deinen Benutzer
+~/.config/rustdesk/RustDesk1.toml
+
+Ausgeschrieben:
+
+/home/DEIN_BENUTZERNAME/.config/rustdesk/RustDesk1.toml
+
+👉 Prüfen im Terminal:
+
+ls ~/.config/rustdesk/
