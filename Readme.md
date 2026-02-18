@@ -1,12 +1,29 @@
 # Linux Gruppe
 
+## Inhaltsverzeichnis
+
+- [Programme installieren](#programme-installieren)
+- [Videokonferenzen](#videokonferenzen)
+- [Fernwartung / Remote](#fernwartung--remote)
+
+---
+
 ## Programme installieren
 
-In diesem Bereich sind Anleitungen um Programme unter Linux zu installieren
+Anleitungen zur Installation von Programmen unter Linux.
 
 + [Zur Übersicht](Prog_installieren/Readme.md)
 
+---
 
 ## Videokonferenzen
 
-+ [Jitsi Meet](Videokonferenz-Plattform/meetjit.md)
++ [Zur Übersicht](Videokonferenz-Plattform/Readme.md)
+
+---
+
+## Fernwartung / Remote
+
+Anleitungen zur Fernwartung und Remote-Unterstützung.
+
++ [Zur Übersicht](Fernwartung_Remote/Readme.md)
