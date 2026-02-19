@@ -101,19 +101,6 @@ Die Lösung ist also auch langfristig wirtschaftlich.
 
 ---
 
-## Für eure Linux-Gruppe
-
-Dieses Projekt ist ideal, um gemeinsam zu lernen:
-
-- Wie funktioniert ein Router eigentlich?
-- Was macht eine Firewall?
-- Wie trennt man Netzwerke sinnvoll?
-- Wie erhöht man die Sicherheit im eigenen Zuhause?
-
-Und das alles mit Open Source Software.
-
----
-
 ## Fazit
 
 Die Mini-PC + OPNsense Lösung ist:
