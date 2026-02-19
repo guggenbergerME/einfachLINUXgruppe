@@ -9,6 +9,7 @@
 - [USB-Bootstick erstellen](#usb-bootstick-erstellen)
 - [Alternative zur FritzBox mit OPNsense](#alternative-zur-fritzbox-mit-opnsense)
 - [Systemsicherung mit Timeshift](#systemsicherung-mit-timeshift)
+- [Schreibtisch anpassen](#schreibtisch-anpassen)
 
 ---
 
@@ -63,3 +64,11 @@ Router und Firewall für zuhause – als Open-Source-Alternative zur FritzBox.
 Snapshots erstellen und das System bei Problemen schnell wiederherstellen.
 
 + [Zur Anleitung](Timeshift/Readme.md)
+
+---
+
+## Schreibtisch anpassen
+
+Hintergrundbild, Design, Schriftgröße, Taskleiste und mehr – für Einsteiger erklärt.
+
++ [Zur Anleitung](Schreibtisch-anpassen/Readme.md)
