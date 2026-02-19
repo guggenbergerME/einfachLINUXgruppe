@@ -7,6 +7,7 @@
 - [Fernwartung / Remote](#fernwartung--remote)
 - [Terminal-Befehle](#terminal-befehle)
 - [USB-Bootstick erstellen](#usb-bootstick-erstellen)
+- [Alternative zur FritzBox mit OPNsense](#alternative-zur-fritzbox-mit-opnsense)
 
 ---
 
@@ -45,3 +46,11 @@ Die wichtigsten Befehle für das Terminal unter Linux Mint.
 Anleitung zum Erstellen eines bootfähigen Linux-USB-Sticks unter Windows.
 
 + [Zur Anleitung](USB-Bootstick/Readme.md)
+
+---
+
+## Alternative zur FritzBox mit OPNsense
+
+Router und Firewall für zuhause – als Open-Source-Alternative zur FritzBox.
+
++ [Zur Übersicht](OPNsense/Readme.md)
