@@ -8,6 +8,7 @@
 - [Terminal-Befehle](#terminal-befehle)
 - [USB-Bootstick erstellen](#usb-bootstick-erstellen)
 - [Alternative zur FritzBox mit OPNsense](#alternative-zur-fritzbox-mit-opnsense)
+- [Systemsicherung mit Timeshift](#systemsicherung-mit-timeshift)
 
 ---
 
@@ -54,3 +55,11 @@ Anleitung zum Erstellen eines bootfähigen Linux-USB-Sticks unter Windows.
 Router und Firewall für zuhause – als Open-Source-Alternative zur FritzBox.
 
 + [Zur Übersicht](OPNsense/Readme.md)
+
+---
+
+## Systemsicherung mit Timeshift
+
+Snapshots erstellen und das System bei Problemen schnell wiederherstellen.
+
++ [Zur Anleitung](Timeshift/Readme.md)
