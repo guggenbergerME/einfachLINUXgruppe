@@ -11,6 +11,7 @@
 - [Systemsicherung mit Timeshift](Timeshift/Readme.md)
 - [Schreibtisch anpassen](Schreibtisch-anpassen/Readme.md)
 - [BIOS / Boot-Menü – Tastenkombinationen und Einstellungen](BIOS-Boot-Menue/Readme.md)
+- [Linux-Distributionen – Übersicht](Linux-Distributionen/Readme.md)
 - [Nostr – Dezentrales Kommunikationsprotokoll](Nostr/Readme.md)
 
 
