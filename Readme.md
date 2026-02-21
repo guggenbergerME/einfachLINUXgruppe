@@ -2,7 +2,7 @@
 
 ## Inhaltsverzeichnis
 
-- [Programme installieren](#programme-installieren)
+- [Programme installieren](Prog_installieren/Readme.md)
 - [Videokonferenzen](#videokonferenzen)
 - [Fernwartung / Remote](#fernwartung--remote)
 - [Terminal-Befehle](#terminal-befehle)
