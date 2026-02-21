@@ -13,10 +13,4 @@
 - [BIOS / Boot-Menü – Tastenkombinationen und Einstellungen](#bios--boot-menü--tastenkombinationen-und-einstellungen)
 - [Nostr – Dezentrales Kommunikationsprotokoll](#nostr--dezentrales-kommunikationsprotokoll)
 
----
 
-## Nostr – Dezentrales Kommunikationsprotokoll
-
-**Nostr** steht für **„Notes and Other Stuff Transmitted by Relays"** und ist ein offenes, dezentrales Protokoll für soziale Kommunikation im Internet.
-
-+ [Zur Übersicht](Nostr/Readme.md)
